@@ -38,7 +38,41 @@
         </nav>
     </header>
     <main>
-
+        <section>
+            <h2>Contact</h2>
+            <p>Please let me know if you have any comments or suggestions to improve this project. Or even if you just have something to say. :)</p>
+            <form action="" method="post" autocomplete="on" name="contact-form">
+                <label for="">
+                    Name:
+                    <input type="text" name="name" id="" required>
+                </label>
+                <br>
+                <label for="">
+                    Your email address:
+                    <input type="email" name="email" id="" placeholder="name@email.com" required>
+                </label>
+                <br>
+                <label for="">
+                    Type of concern:
+                    <select name="concern" id="" required>
+                        <option value="">--- Please select the type of concern ---</option>
+                        <option value="inquiry">Inquiry</option>
+                        <option value="feedback">Feedback</option>
+                        <option value="message">Message</option>
+                    </select>
+                </label>
+                <br>
+                <label for="">
+                    Your message:
+                    <br>
+                    <textarea name="message" id="" cols="30" rows="10" required>Your message here...</textarea>
+                </label>
+                <br>
+                <label for="submit">
+                    <button type="submit">Submit</button>
+                </label>
+            </form>
+        </section>
     </main>
     <footer>
         <p>
