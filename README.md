@@ -5,6 +5,12 @@
 ![Discord user](https://img.shields.io/badge/Chat-Sinaya%233320-9e7ffb?logo=discord&labelColor=9e7ffb&color=white&logoColor=white)
 ![Twitter Follow](https://img.shields.io/twitter/follow/nldgutierrez?style=social)
 
+<p>
+    <a href="https://twitter.com/intent/follow?screen_name=nldgutierrez">
+        <img src="https://img.shields.io/twitter/follow/nldgutierrez?style=social" alt="Follow me on Twitter">
+    </a>
+</p>
+
 ## Description
 "The Science of Obsidian" is my personal project to practice my skills in HTML, CSS, and JavaScript. This is a website that mainly talks about [Obsidian](https://obsidian.md/), a personal knowledge management app.
 
