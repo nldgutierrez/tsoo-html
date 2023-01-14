@@ -67,7 +67,7 @@ This will be the final release version where the website should already be a ful
 
 ## Feedback
 If you have any concerns, suggestions, or feedback about this project, please feel free to reach out to me in the following platforms:
-- [Discord](https://discordapp.com/users/458916484849336320)
+- [Discord](https://discord.com/users/458916484849336320)
 - [Twitter](https://twitter.com/nldgutierrez)
 
 ## Disclaimer
