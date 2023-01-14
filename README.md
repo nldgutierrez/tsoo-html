@@ -1,15 +1,9 @@
 # The Science of Obsidian
-<p>
-    <a href="https://github.com/nldgutierrez/tsoo-html/releases/latest">
-    <img alt="GitHub latest release" src="https://img.shields.io/github/v/release/nldgutierrez/tsoo-html?labelColor=9e7ffb&color=white">
-    </a>
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/nldgutierrez/tsoo-html?labelColor=9e7ffb&color=white">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nldgutierrez/tsoo-html?labelColor=9e7ffb&color=white">
-    <a href="https://discordapp.com/users/458916484849336320">
-    <img alt="Discord user" src="https://img.shields.io/badge/Chat-Sinaya%233320-9e7ffb?logo=discord&labelColor=9e7ffb&color=white&logoColor=white">
-    </a>
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nldgutierrez?label=Follow&style=social">
-</p>
+![GitHub latest release](https://img.shields.io/github/v/release/nldgutierrez/tsoo-html?labelColor=9e7ffb&color=white)
+![GitHub language count](https://img.shields.io/github/languages/count/nldgutierrez/tsoo-html?labelColor=9e7ffb&color=white)
+![GitHub top language](https://img.shields.io/github/languages/top/nldgutierrez/tsoo-html?labelColor=9e7ffb&color=white)
+![Discord user](https://img.shields.io/badge/Chat-Sinaya%233320-9e7ffb?logo=discord&labelColor=9e7ffb&color=white&logoColor=white)
+![Twitter Follow](https://img.shields.io/twitter/follow/nldgutierrez?style=social)
 
 ## Description
 "The Science of Obsidian" is my personal project to practice my skills in HTML, CSS, and JavaScript. This is a website that mainly talks about [Obsidian](https://obsidian.md/), a personal knowledge management app.
